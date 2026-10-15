@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "Mom",
+    "password": "password",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "GOJUGOKI2.aternos.me",
+    "port": 32658,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to Deviled_Mc!",
+        "Want Cheap Trading Dm Deviled_Mc"
       ]
     },
     "chat-log": true,
