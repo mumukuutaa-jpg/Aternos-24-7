@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Mom",
+    "username": "Fuck",
     "password": "password",
     "type": "offline"
   },
   "server": {
-    "ip": "GOJUGOKI2.aternos.me",
+    "ip": "legacysmp27-07d208.play.shulkerboxes.com",
     "port": 32658,
     "version": "1.20.1",
     "try-creative": false
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 80,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Deviled_Mc!",
-        "Want Cheap Trading Dm Deviled_Mc"
+        "Fuck Dryoz and Her Sister! and her Wife and Mother Fuck Them All Everyone ",
+        "Dryoz Fuckdd By Deviled_Mc",
+        "Owner Ki Maki Ho Chu",
       ]
     },
     "chat-log": true,
